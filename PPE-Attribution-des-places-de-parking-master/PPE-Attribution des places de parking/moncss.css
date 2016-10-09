@@ -1,0 +1,92 @@
+html
+{
+	background-image: url(photo/Fond.jpg);
+}
+
+body
+{
+	text-align: center;
+}
+
+label
+{
+	font-size: 25px;
+	text-align: center;
+}
+
+input
+{
+	font-size: 20px;
+}
+
+img 
+{
+	height:400px;
+	width: 800px;
+}
+table 
+{ 
+	margin : 10px auto auto auto;
+	border-width:5px; 
+ 	border-style:solid;
+ 	border-collapse: collapse;
+} 
+
+td
+{
+	border-style:solid;
+	font-size: 25px;
+	border-color: black;
+}
+
+p
+{
+	font-family: arial;
+	font-size: 25px;
+}
+
+footer
+{
+
+	text-align: center;
+	margin-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+
+}
+
+h1
+{
+	color: black;
+	text-align: center;
+	height: 55px;
+	font-size: 45px;
+}
+
+h2
+{
+	color:black;
+	text-align: center;
+	height: 40px;
+	font-size: 35px;
+
+}
+
+nav
+{
+	text-align: center;
+	font-size: 30px;
+
+}
+
+a 
+ {       
+
+     color: #000000;
+     /*l'ecriture choisi*/
+     font-family: Maiandra GD;
+     margin-right: 30px;
+}
+
+
+
